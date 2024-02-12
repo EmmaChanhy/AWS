@@ -17,7 +17,7 @@ To ensure a structured approach to data management, I establish a clear distinct
 
 - Gold: The gold layer represents data in its final state, refined and optimized for consumption.
 
-<img src="png/s3_bucket.png" alt="Global Container Ports" width="600"/>
+<img src="png/S3_bucket.png" alt="Global Container Ports" width="600"/>
 
 <br>2.2 Glue Jobs for Ingestion and Transformation
 
